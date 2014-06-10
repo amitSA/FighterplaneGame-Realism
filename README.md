@@ -1,7 +1,7 @@
 FighterplaneGame-Realism
 ========================
 
-Another fighterplane game I made, this time for my APCS class final, it isnt fully completed and is still be worked on
+Another fighterplane game I made, this time for my APCS class final, it isnt fully completed and is still being worked on
 
 Description
 The game can be both a single-player and multi-player game.  The program is desgined to offer a fun time-waster to users.  The single-player version of the game involves
