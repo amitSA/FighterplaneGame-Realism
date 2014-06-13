@@ -1,6 +1,10 @@
+/* APCS Dog Fight Game
+ * Copywrite 2014 Amit Saxena 
+ * 
+ * 
+ */
+
 package otherstuff;
-
-
 
 import javax.swing.JFrame;
 

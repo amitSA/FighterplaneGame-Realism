@@ -91,6 +91,7 @@ public class SurvivalRules implements Rules
 		Rectangle2D.Float rect = gameWorld.getVisibleRectangle();
 		float yVal = getRandomYVal();
 		UserPlane up = new UserPlane(spriteLoader,name,gameWorld,rect.x,yVal,ALLY_TEAM,0,100);
+		
 		return up;
 	}
 	

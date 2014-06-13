@@ -18,6 +18,8 @@ public interface Group
 	
 	public void act();
 	
+	
+	
 }
 
 
